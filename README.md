@@ -30,4 +30,4 @@ Members tends to send more messages on 16th of every month and lesser messages o
 Wednesday is usally the most busy day of the week followed by Tuesday while Thursday is the most less active day of the week followed by Friday
 Between 8pm and 10pm on dailly basics is recorded as the peak time of the day where most members are online to chat on daily basics and between 1am and 5pm is recoded as the time people are less active
 ```
-![Analysis 2](https://github.com/Latsan/whatsapp-group-data/blob/main/analysis2.jpg)
+![](https://github.com/Latsan/whatsapp-group-data/blob/main/analysis2.jpg)
