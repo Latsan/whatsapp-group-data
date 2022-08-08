@@ -23,9 +23,9 @@ The data was collected from an admin of a targetted whatsApp group and all membe
 ![Analysis 1](analysis1.jpg)
 
 
-- 245 members were found in the group chat
-- Only 237 members sent atleast 1 messsage on the group chat
-- 60,163 message was sent on the group chat
+- 245 members were found in the group chat.
+- Only 237 members sent atleast 1 messsage on the group chat.
+- 60,163 message was sent on the group chat.
 
 
 - Between 8pm and 10pm on dailly basics is recorded as the peak time of the day where most members are online to chat 
@@ -43,4 +43,4 @@ Any partnering project should identify user1 to user10 and secure a deal with th
 controling the group chat, Adverts should be done by 9pm on Wednesdays and Tuesdays so as this will help them 
 to get more audience and attention
 
-By Sanni Abdualteef - https://www.linkedin.com/in/abdulateef-akinola-0004/
+By **Sanni Abdualteef** - https://www.linkedin.com/in/abdulateef-akinola-0004/
