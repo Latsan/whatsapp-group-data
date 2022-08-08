@@ -37,7 +37,8 @@ on daily basics and between 1am and 5pm is recoded as the time people are less a
 - Wednesday is usally the most busy day of the week followed by Tuesday while Thursday is the most less active day 
 of the week followed by Friday. The total messsage sent on wednesday is 12.78k messages (20.25%)
 - Members tends to send more messages on 16th of every month and lesser messages on the 30th of the month
-- 
+
+
 ---
 ## Recommendation
 
