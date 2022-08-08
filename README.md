@@ -12,15 +12,15 @@ The data was collected from an admin of a targetted whatsApp group and all membe
 ## Data Cleaning
 
 ##### After collecting the data in a text format from admin of Crypto Syndicate whatsApp group, I imported the data and cleaned the data with the help of power query in PowerBi desktop
-![cleaning 1](https://github.com/Latsan/whatsapp-group-data/blob/main/Untitled1.jpg)
-![cleaning 2](https://github.com/Latsan/whatsapp-group-data/blob/main/Untitled2.jpg)
-![cleaning 3](https://github.com/Latsan/whatsapp-group-data/blob/main/Untitled3.jpg)
-![cleaning 4](https://github.com/Latsan/whatsapp-group-data/blob/main/Untitle4.jpg)
+![cleaning 1](Untitled1.jpg)
+![cleaning 2](Untitled2.jpg)
+![cleaning 3](Untitled3.jpg)
+![cleaning 4](Untitle4.jpg)
 
 ---
 ## Analysis
 
-![Analysis 1](https://github.com/Latsan/whatsapp-group-data/blob/main/analysis1.jpg)
+![Analysis 1](analysis1.jpg)
 
 
 - 245 members were found in the group chat
