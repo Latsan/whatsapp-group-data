@@ -31,7 +31,7 @@ The data was collected from an admin of a targetted whatsApp group and all membe
 - Between 8pm and 10pm on dailly basics is recorded as the peak time of the day where most members are online to chat 
 on daily basics and between 1am and 5pm is recoded as the time people are less active
 
-![](https://github.com/Latsan/whatsapp-group-data/blob/main/analysis2.jpg)
+![Analysis2](analysis2.jpg)
 - User1 is the most active member which he sent 15% out of the total mesages sent
 - Wednesday is usally the most busy day of the week followed by Tuesday while Thursday is the most less active day 
 of the week followed by Friday. The total messsage sent on wednesday is 12.78k messages (20.25%)
